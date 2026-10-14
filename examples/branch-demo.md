@@ -13,3 +13,14 @@
 - Merge 合并到 main
 - 删除开发分支
 - 创建 Tag 和 Release
+
+## 第二次修改
+
+这是开发分支中的第二次修改。
+
+本次重点学习：
+
+- 一个分支可以包含多个 Commit。
+- 每次 Commit 都有独立的提交记录。
+- History 可以查看不同 Commit 的修改内容。
+- 多次 Commit 可以在最后统一 Push 到 GitHub。
